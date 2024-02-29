@@ -1,0 +1,21 @@
+.card-header,.card-footer{
+    background-color: #dc3545;
+    }
+    .footer {
+      background-color: #d54355;
+    }
+    
+    .footer .contact ul svg {
+      width: 20px;
+      height: 20px;
+    }
+
+    .footer .twitter {
+        background-color: #1da1f2;
+      }
+      .footer .linkedin {
+        background-color: #0077b5;
+      }
+      .footer .youtube {
+        background-color: #ff0000;
+      }

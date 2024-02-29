@@ -1,0 +1,12 @@
+
+
+.btn-pink {
+    color: pink; /* Set text color to pink */
+    border-color: pink; /* Set border color to pink */
+  }
+  .btn-pink:hover,
+  .btn-pink:focus {
+    background-color: #dc3545; /* Change background color to pink on hover */
+    border-color: #dc3545; /* Change border color to pink on hover */
+    color: white; /* Change text color to white on hover */
+  }

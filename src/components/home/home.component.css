@@ -1,0 +1,13 @@
+.btn-pink {
+    background-color: #dc3545;
+    border-color: #dc3545;
+    color: white; /* Text color */
+  }
+  
+  .btn-pink:hover,
+  .btn-pink:focus {
+    background-color:  #ff69b4;
+    ; /* Darker shade of pink on hover or focus */
+    border-color:   #ff69b4;
+    ; /* Darker shade of pink on hover or focus */
+  }
